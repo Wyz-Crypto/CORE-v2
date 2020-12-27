@@ -1,5 +1,6 @@
 # CORE-v2
 ## Project links and info
+tests
 
 Website links and redundant links
 
@@ -186,4 +187,3 @@ changes:
 - Store the LPPerUnitContributed at the end of addLiquidityToPair using 1e18 units of precision instead of 1e8
 - Add sanity check that LPPerUnitContributed should be above zero to handle a multitude of potential errors
 - Use the uppercase TransferHandler on core globals
-
